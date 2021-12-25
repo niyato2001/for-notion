@@ -5,6 +5,7 @@ const List = [
   { name: "apple", color: "red" },
   { name: "banana", color: "yellow" },
   { name: "rose", color: "red" },
+  { name: "cherry", color: "pink" },
 ];
 
 export default function Home() {
